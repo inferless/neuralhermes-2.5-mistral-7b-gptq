@@ -1,6 +1,6 @@
 version: 1.0.0
 
-name: neuralhermes-2.5-mistral-7b-gptq
+name: neuralhermes-2-5-mistral-7b-gptq
 import_source: GIT
 
 # you can choose the options between ONNX, TENSORFLOW, PYTORCH
